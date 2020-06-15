@@ -13,4 +13,5 @@ Manually the QA team will check (test) for the website running in dev-docker env
 JOB#4
 After the merging done, the dev1-docker environment should be destoyed automatically in order to save RAM/CPU resources
 
-Here I have integrated Jenkins with Docker, Git (DCVCS) and GitHub (CVCS). Jenkins server is running in my RHEL 8 VM. I have described all the steps in my LinkedIn article. Please refer to my article to know more. Here is the https://lnkd.in/gFYVxnP
+Here I have integrated Jenkins with Docker, Git (DCVCS) and GitHub (CVCS). Jenkins server is running in my RHEL 8 VM. I have described all the steps in my LinkedIn article. Please refer to my article to know more. Here is the 
+https://www.linkedin.com/pulse/integration-git-github-jenkins-docker-sri-vishnuvardhan/?published=t
